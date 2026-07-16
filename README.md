@@ -299,18 +299,6 @@ Planned enhancements include:
 
 ---
 
-## Screenshots
-
-### Home Page
-
-_Add a screenshot of your application here._
-
-### Generated Result
-
-_Add a screenshot of a generated virtual try-on result here._
-
----
-
 ## Acknowledgements
 
 This project integrates the open-source **FASHN-VTON v1.5** model developed by **FASHN AI**.
